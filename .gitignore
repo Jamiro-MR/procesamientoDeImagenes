@@ -1,0 +1,13 @@
+
+*.meta
+cifar10/data/cifar-10-batches-py/data_batch_1
+*.zip
+*.pyc
+*.pth
+cifar10/data/cifar-10-batches-py/data_batch_2
+*.gz
+cifar10/data/cifar-10-batches-py/data_batch_3
+cifar10/data/cifar-10-batches-py/data_batch_4
+cifar10/data/cifar-10-batches-py/data_batch_5
+cifar10/data/cifar-10-batches-py/readme.html
+cifar10/data/cifar-10-batches-py/test_batch
